@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jazz Festival",
+    "description": "Experience soulful jazz tunes under the stars.",
+    "organizer": "JazzLife",
+    "event_date": "2023-10-12T00:00:00",
+    "event_time": "20:00:00",
+    "location": "City Park",
+    "category_id": 3
+  },
+  {
+    "id": 2,
+    "name": "Science Convention",
+    "description": "Join fellow science enthusiasts for a weekend of discovery.",
+    "organizer": "SciTech Association",
+    "event_date": "2023-11-15T00:00:00",
+    "event_time": "09:00:00",
+    "location": "Convention Center",
+    "category_id": 8
+  },
+  {
+    "id": 3,
+    "name": "Literature Conference",
+    "description": "Immerse yourself in the world of classic and contemporary literature.",
+    "organizer": "BookLovers United",
+    "event_date": "2023-12-05T00:00:00",
+    "event_time": "10:00:00",
+    "location": "City Library",
+    "category_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Charity Marathon",
+    "description": "Run for a cause at the annual Charity Marathon.",
+    "organizer": "FitnessFirst",
+    "event_date": "2023-10-01T00:00:00",
+    "event_time": "07:00:00",
+    "location": "Downtown",
+    "category_id": 29
+  },
+  {
+    "id": 5,
+    "name": "Comedy Night",
+    "description": "Laugh out loud with some of the best comedians in the country.",
+    "organizer": "FunTimes",
+    "event_date": "2023-09-27T00:00:00",
+    "event_time": "21:00:00",
+    "location": "Comedy Club",
+    "category_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Art Workshop",
+    "description": "Learn from established artists in this hands-on art workshop.",
+    "organizer": "Art Society",
+    "event_date": "2023-11-20T00:00:00",
+    "event_time": "13:00:00",
+    "location": "Art Studio",
+    "category_id": 18
+  },
+  {
+    "id": 7,
+    "name": "Food Festival",
+    "description": "Enjoy diverse cuisines from around the world.",
+    "organizer": "Food Lovers",
+    "event_date": "2023-12-12T00:00:00",
+    "event_time": "11:00:00",
+    "location": "Main Square",
+    "category_id": 25
+  },
+  {
+    "id": 8,
+    "name": "Photography Exhibition",
+    "description": "A showcase of stunning photography from around the world.",
+    "organizer": "PhotoClub",
+    "event_date": "2023-12-18T00:00:00",
+    "event_time": "15:00:00",
+    "location": "City Gallery",
+    "category_id": 27
+  }
+]
